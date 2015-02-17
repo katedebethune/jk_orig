@@ -1,0 +1,73 @@
+		
+		
+		.non-index-container {
+			padding:20px 80px 20px 80px;
+		}
+		
+		
+			
+		
+		
+		.resizedTextbox {
+			width: 2em;
+			height: 1.5em; 
+		}
+		
+		/* input {
+			padding: .25em;
+		} */
+		
+		
+		
+		.form-control-inline {
+    		min-width: 0;
+    		width: 7%;
+    		display: inline;
+		} 
+		
+		.flash-message {
+			width:100%;
+			position:absolute;
+			top:50px;
+			left:0;
+			background-color:yellow;
+			text-align:center;
+			padding:5px;
+		}
+		
+		/* CSS for sticky footer */
+		* {
+  			margin: 0;
+		}
+		html, body {
+		  height: 100%;
+		}
+		.page-wrap {
+		  min-height: 100%;
+		  /* equal to footer height */
+		  margin-bottom: -142px; 
+		}
+		.page-wrap:after {
+		  content: "";
+		  display: block;
+		}
+		.site-footer, .page-wrap:after {
+		  height: 142px; 
+		}
+		.site-footer {
+		  background: #2B2B2B;
+		}
+
+		
+		/* css for timepicker */
+		.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+		.ui-timepicker-div dl { text-align: left; }
+		.ui-timepicker-div dl dt { float: left; clear:left; padding: 0 0 0 5px; }
+		.ui-timepicker-div dl dd { margin: 0 10px 10px 45%; }
+		.ui-timepicker-div td { font-size: 90%; }
+		.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+
+		.ui-timepicker-rtl{ direction: rtl; }
+		.ui-timepicker-rtl dl { text-align: right; padding: 0 5px 0 0; }
+		.ui-timepicker-rtl dl dt{ float: right; clear: right; }
+		.ui-timepicker-rtl dl dd { margin: 0 45% 10px 10px; }
