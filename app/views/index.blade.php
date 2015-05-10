@@ -25,9 +25,9 @@
 	    <div id="headerwrap" data-name="home">
 	    	<div id="home">
 				<header class="clearfix">
-						<h1><span class="glyphicon glyphicon-heart"></span></h1>
-						<p>Jenny's Kitchen</p>
-						<p>Bistro-Style Cooking from the Heart</p>
+						<!-- <h1><span class="glyphicon glyphicon-heart"></span></h1> -->
+						<!-- <p>Jenny's Kitchen</p> -->
+						<!-- <p>Bistro-Style Cooking from the Heart</p> -->
 				</header>
 			</div><!-- /home -->	    
 	    </div><!-- /headerwrap -->
